@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SalmanKhan45
-- 👀 I’m interested in Computer architecture and Operating Systems. 
-- 🌱 I’m currently learning Systems Programming and low level languages.
-- 💞️ I’m looking to collaborate on architecture specific projects, emulators and other low level stuff
+
 - 📫 You can reach me at salmanktk314@gmail.com
 
 <!---
